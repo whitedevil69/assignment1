@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.heading1{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    border-left: 5px solid gray;
+    padding-left: 10px;
+}
+.side-by-side{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    margin: 70px;
+    
+}
+.image{
+    width: 80%;
+}
+.colorful{
+    color: darksalmon;
+}
+.button{
+    text-decoration: none;
+    background-color: darkslategray;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
